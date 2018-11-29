@@ -1,4 +1,4 @@
-# AGENDA DE TAREFAS (TODO) EM REACT-REDUX e NODE.js
+# Agenda de tarefas (Todo) desenvolvida em React-Redux e Node.js
 
 Agenda de tarefas baseadas no Todoist. 
 
