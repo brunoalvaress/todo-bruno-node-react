@@ -1,4 +1,4 @@
-# AGENDA DE TAREFAS (TODO) EM REACT, NODE, EXPRESS
+# AGENDA DE TAREFAS (TODO) EM REACT-REDUX e NODE.js
 
 Agenda de tarefas baseadas no Todoist. 
 
